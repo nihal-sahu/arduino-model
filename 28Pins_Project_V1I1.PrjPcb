@@ -58,23 +58,6 @@ GenerateClassCluster=0
 DocumentUniqueId=ATAJBRKV
 
 [Document2]
-DocumentPath=28Pins_Project_V1I1_PCB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SPGRSRTS
-
-[Document3]
 DocumentPath=28Pins_Project_V1I1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BJXGAIBO
 
-[Document4]
+[Document3]
 DocumentPath=28Pins_Project_V1I1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,6 +90,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XRNSAQRW
+
+[Document4]
+DocumentPath=28Pins_Project_V1I1_pCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LAXANVKU
 
 [Parameter1]
 Name=NotFitted
