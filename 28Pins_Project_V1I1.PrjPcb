@@ -108,6 +108,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAXANVKU
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Design Rule Check - 28Pins_Project_V1I1_pCB.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=NotFitted
 Value=NF
