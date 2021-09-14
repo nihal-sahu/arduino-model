@@ -22,6 +22,7 @@ PCB Back:
 ![image](https://user-images.githubusercontent.com/87585163/133197122-e7eba4bc-0f1a-491f-9429-5526ee154b37.png)
 
 *About this project:*
+
 This project is by no means final, many things need to be changed in order for this board to be fully working when manafactured. This project was made to learn how to use Altium Designer 21, as well as the basics of PCB design in order to employ those skills for the University of Waterloo Robotics Team. This project was made with reference to the PCB design tutorial offered by FEDEVEL academy. 
 
 
