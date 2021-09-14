@@ -7,7 +7,7 @@ A custom model of an Arduino Uno Rev3 made with Altium Designer 21.
 -PCB board and Schematic were made with these custom components
 -Reviewed and edited by members of UWRT 
 
-Screenshots: 
+<ins>Screenshots:</ins> 
 
 Schematic:
 
