@@ -14,9 +14,11 @@ Schematic:
 ![image](https://user-images.githubusercontent.com/87585163/133197015-bda2f358-ffcd-4350-b16e-9a282e2e31ab.png)
 
 PCB Front: 
+
 ![image](https://user-images.githubusercontent.com/87585163/133197088-df56ab15-e6a5-40e2-ad07-27b1faac51f2.png)
 
 PCB Back: 
+
 ![image](https://user-images.githubusercontent.com/87585163/133197122-e7eba4bc-0f1a-491f-9429-5526ee154b37.png)
 
 *About this project:*
